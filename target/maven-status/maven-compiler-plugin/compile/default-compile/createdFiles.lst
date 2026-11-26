@@ -1,0 +1,5 @@
+com\mycompany\cvbuilder\JakartaRestConfiguration.class
+com\mycompany\cvbuilder\model\CVBean$Entry.class
+com\mycompany\cvbuilder\model\CVBean.class
+com\mycompany\cvbuilder\controller\CVServlet.class
+com\mycompany\cvbuilder\resources\JakartaEE11Resource.class
